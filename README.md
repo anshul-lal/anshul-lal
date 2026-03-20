@@ -3,7 +3,7 @@ I am a Product Analyst and Data Analyst with over 3.5 years of experience using 
 
 
 ## 📊 Projects:
-[![UpWork]](https://www.upwork.com/freelancers/~014f7715790da34356)
+[[UpWork]](https://www.upwork.com/freelancers/~014f7715790da34356)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-lal/) 
