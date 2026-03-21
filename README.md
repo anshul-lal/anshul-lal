@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am a Product Analyst with over 3.5 years of experience applying advanced analytical methods to drive product strategy, experimentation, and decision making. I hold an MSc in Business Analytics and Big Data from the University of Liverpool with distinction, and have worked on large scale digital learning products serving 4M+ users.
+
 My work centres on product analytics, A/B testing, and behavioural analysis. I have designed and executed randomised experiments, built event tracking frameworks, and conducted funnel, cohort, and retention analyses to identify friction points and improve user engagement. I work end to end from metric definition and hypothesis design to statistical analysis and stakeholder communication.
+
 I primarily use SQL and Python for analysis, alongside Power BI and Matomo for reporting and visualisation. I also work with Alteryx for data preparation and workflow automation, and tools such as Metabase and Advanced Excel for exploratory analysis and reporting. My focus is on building statistically robust, decision oriented analytics that drive measurable improvements in activation, retention, and feature adoption.
 
 
